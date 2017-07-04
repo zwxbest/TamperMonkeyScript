@@ -2,7 +2,7 @@
 // @name         当前页面引入jQuery
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  null
+// @description  测试git commit对于modified
 // @author       zwxbest
 // @include         *
 // @bug 前端小白,不知道为什么网易新闻一个页面多个html加载好几次
